@@ -1,2 +1,0 @@
-
-INSERT INTO medicos(nome,email,crm,especialidade,logradouro,bairro,cep,complemento,numero,uf,cidade,telefone) values ('VERONICA 02','VERONICA.02@VOLL.MED','123661','CARDIOLOGIA','RUA 2','BAIRRO 2','09371612','APTO 1','1','SP','MAUA','993153079');
