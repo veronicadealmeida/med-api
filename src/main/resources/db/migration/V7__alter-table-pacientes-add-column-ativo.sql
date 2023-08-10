@@ -1,3 +1,3 @@
-alter table pacientes add column ativo tinyint;
+alter table pacientes add column ativo smallint;
 update pacientes set ativo = 1;
-alter table pacientes modify ativo tinyint not null;
+alter table pacientes alter COLUMN  ativo set not null;
