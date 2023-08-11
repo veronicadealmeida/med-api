@@ -1,0 +1,2 @@
+insert into usuarios values (1, 'admin', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.');
+insert into usuarios values (2, 'veronica.almeida', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.');
